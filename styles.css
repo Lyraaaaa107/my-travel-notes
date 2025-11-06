@@ -91,7 +91,7 @@ h1, h2, h3, h4 {
 .hero {
     height: 70vh;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-                url('../images/hero-bg.jpg');
+                url('images/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1164,4 +1164,5 @@ h1, h2, h3, h4 {
 
 .back-to-blog:hover {
     color: #764ba2;
+
 }
